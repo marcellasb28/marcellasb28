@@ -1,5 +1,5 @@
  👋 Hi, I’m Marcella!
- About me: 
+ 
 - 🎓 I'm in my first semester of Computer Science. 
 - 💞️ I'm always looking to learn more about the world of computing!
 - - 🌱 I’m currently learning C, C++ and JavaScript.
