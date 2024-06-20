@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C, C++ and JavaScript.
 - 📫 How to reach me:
   - **E-mail**: marcellabelchior28@gmail.com
-  - **LinkedIn**: [marcellabelchior](www.linkedin.com/in/marcella-santos-belchior)
+  - **LinkedIn**: [marcellabelchior](https://www.linkedin.com/in/marcella-santos-belchior/)
   - **Instagram**: [marcellabelchiorr](https://www.instagram.com/marcellabelchiorr/)
 
 <!---
