@@ -2,7 +2,7 @@
  
 - 🎓 I'm in my first semester of Computer Science. 
 - 💞️ I'm always looking to learn more about the world of computing!
-- 🌱 I’m currently learning C, C++ and JavaScript.
+- 🌱 I’m currently learning C, C++ and Java.
 - 📫 How to reach me:
   - **E-mail**: marcellabelchior28@gmail.com
   - **LinkedIn**: [marcellabelchior](https://www.linkedin.com/in/marcella-santos-belchior/)
