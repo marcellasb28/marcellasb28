@@ -1,6 +1,6 @@
  👋 Hi, I’m Marcella!
  
-- 🎓 I'm in my second semester of Computer Science. 
+- 🎓 I'm in my third semester of Computer Science. 
 - 💞️ I'm always looking to learn more about the world of computing!
 - 🌱 I’m currently learning C and Java.
 - 📫 How to reach me:
